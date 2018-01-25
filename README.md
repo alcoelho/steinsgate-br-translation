@@ -1,1 +1,1 @@
-# steinsgate
+# Tradução da Visual Novel de Steins;Gate

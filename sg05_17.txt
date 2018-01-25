@@ -1,0 +1,1088 @@
+<PRE @box00>[text00010]
+Quando dei por mim, a porta foi aberta.
+
+</PRE>
+
+<PRE @box00>[text00020]
+Cinco homens entraram de repente no laboratório.
+
+Seus movimentos são ágeis e precisos -- profissionais -- e cada um deles está carregando uma arma.
+
+Eles ocupam a porta e apontam suas armas para nós.
+
+
+Tudo está acontecendo tão rápido que ninguém teve tempo nem para gritar.
+
+
+
+Os homens são estrangeiros, formando um grupo de várias raças diferentes. Eles estão vestidos de forma casual usando camisas coloridas e shorts, ou calças jeans.
+
+Mas seus braços são grossos por serem muito musculosos, e seus olhos são penetrantes e frios como o gelo.
+
+
+
+Dois deles estão segurando pistolas. Os outros três seguram fuzis de assalto.
+
+AK-47s em Akiba? Isso é algum tipo de piada?
+
+
+Mas uma coisa está clara. Estes caras não são turistas.
+
+<voice name="Attacker　A" class="VID_ETC" src="voice/RNA_0000" mode="on">
+"Mãos ao alto. Não se mexam."
+
+O homem negro de corte militar ordena.
+
+Parece que eu estou sonhando.
+
+Eu caí no sono enquanto assistia um filme de ação?
+
+Esta é a primeira vez que tem tantas pessoas reunidas nessa sala.
+
+De repente, o laboratório parece pequeno. Que coisa estranha de se pensar em um momento como esse.
+
+O primeiro a obedecer é o Daru.
+
+Depois Kurisu levanta suas mãos.
+
+Eu também obedeço.
+
+A última é a Mayuri.
+
+Silêncio.
+
+O tempo parece ter parado.
+
+Os homens continuam em silêncio, mas suas armas permanecem firmes em suas mãos, ainda apontadas em nossa direção.
+
+
+
+Na TV, um comediante ri.
+
+O que é isso?
+
+Estamos em uma pegadinha?
+
+
+</PRE>
+
+<PRE @box00>[text00030]
+E então eu ouço um novo barulho vindo de fora da sala.
+
+
+O som de pisadas de salto alto.
+
+Uma mulher está subindo as escadas.
+
+Estes homens estão esperando por ela?
+
+Ela é a líder deles?
+
+Um esquadrão de militares experientes em batalhas liderado por uma bela mulher. Parece coisa de mangá.
+
+Nada parece real.
+
+Pouco tempo depois, a mulher aparece.
+
+</PRE>
+
+<PRE @box00>[text00040]
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0149" mode="on">
+"..."
+
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2725" mode="on">
+"Kiryu... Moeka..."
+
+A editora de meio período.
+
+A demônio dos e-mails, Shining Finger, que nunca é vista sem seu telefone.
+
+
+Lab Mem 005.
+
+Moeka? Ela é a líder deles?
+
+A mulher menos imponente que eu já conheci?
+
+Mesmo agora, ela não olha nos meus olhos. Os olhos dela estão fitando o chão.
+
+O que está acontecendo aqui?
+
+<voice name="Mayuri" class="VID_MAY" src="voice/MAY_0785" mode="on">
+"Um... Moeka-san?"
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0150" mode="on">
+"Nós levaremos a máquina do tempo."
+
+Como sempre, suas palavras mal são audíveis.
+
+É ridículo. Chega a ser cômico.
+
+
+E ainda assim, eu não consigo rir.
+
+Meu coração é como uma britadeira no meu peito.
+
+Minha boca está seca como um deserto.
+
+
+Eu permaneço parado, com minhas mãos ao alto.
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0151" mode="on">
+"Makise Kurisu, Okabe Rintaro, Hashida Itaru. Vocês três virão conosco."
+
+Eu não entendo.
+
+
+Por que a Moeka está aqui?
+
+Eu não sei, mas eu preciso perguntar.
+
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2726" mode="on">
+"O que está acontecendo aqui?"
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0152" mode="on">
+"Eu não posso responder isso."
+
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2727" mode="on">
+"Isto é uma piada... não é?"
+
+Moeka balança sua cabeça negativamente.
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0153" mode="on">
+"Você não precisa saber."
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0154" mode="on">
+"Você não pode resistir."
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0155" mode="on">
+"Venha conosco.
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2728" mode="on">
+"P-para onde?"
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0156" mode="on">
+"..."
+
+Sem resposta.
+
+Ela não pretende responder isso também.
+
+Perigoso.
+
+Estes caras são perigosos. Olha para as armas deles.
+
+
+Nada positivo pode acontecer se nós formos com eles.
+
+Eu tento recusar, mas minha voz se prende em minha garganta.
+
+Eu não consigo parar de olhar para as armas deles.
+
+Elas são reais?
+
+Eles não vão começar a atirar, vão?
+
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2729" mode="on">
+"Eu n-não vou à lugar algum até você responder."
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0157" mode="on">
+"Você não pode recusar."
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0158" mode="on">
+"Você não tem para onde fugir."
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0159" mode="on">
+"Nós temos homens estacionados por Akihabara."
+
+Espera...
+
+A ficha caiu.
+
+Foram eles. Eles enviaram a ameaça de bomba. Eles pararam os trens.
+
+Por quê?
+
+Para nos prender aqui?
+
+Apenas para isso?
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0160" mode="on">
+"Eu não quero machucar ninguém."
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0161" mode="on">
+"Vocês três, venham conosco."
+
+<voice name="Kurisu" class="VID_CRS" src="voice/CRS_1665" mode="on">
+"Por quê..."
+
+Kurisu, que estava em silêncio até agora, finalmente abre sua boca.
+
+<voice name="Kurisu" class="VID_CRS" src="voice/CRS_1666" mode="on">
+"Por que apenas nós três?"
+
+Foi nesse momento que eu percebi que Mayuri não estava inclusa na ordem de Moeka. Ela apenas quer Kurisu, Daru e eu.
+
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0162" mode="on">
+"Eu não responderei suas perguntas."
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0163" mode="on">
+"Venha conosco. É a sua única escolha."
+
+Isso não vai nos levar à lugar algum.
+
+
+<voice name="Itaru" class="VID_DAR" src="voice/DAR_0864" mode="on">
+"O-Okarin..."
+
+A voz de Daru está tremendo. Eu viro minha cabeça para olhar para ele. Ele está pálido como um cadáver.
+
+
+<voice name="Itaru" class="VID_DAR" src="voice/DAR_0865" mode="on">
+"V-você não acha que deveríamos fazer o que ela manda?"
+
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2730" mode="on">
+"A não ser que ela me diga seus motivos..."
+
+Honestamente, eu não tenho nenhuma ideia do que fazer.
+
+Meu coração ainda está agitado em meu peito. Isto parece mais com um sonho do que com a realidade.
+
+
+</PRE>
+
+<PRE @box00>[text00050]
+Eu não sou um cara obcecado por artigos militares. Eu nunca vi uma arma de verdade.
+
+O brilho negro das armas deles parece até brega. Elas não passam o sentimento imponente que você esperaria.
+
+Eu acreditaria nela se ela dissesse que as armas são falsas.
+
+Mayuri de repente se pronuncia.
+
+<voice name="Mayuri" class="VID_MAY" src="voice/MAY_0786" mode="on">
+"M-Moeka-san, você é uma lab mem também... não é?"
+
+É como se Mayuri tivesse feito minha pergunta por mim.
+
+Moeka era uma mulher estranha, mas eu a acolhi como uma lab mem como fiz com todos os outros membros.
+
+
+O que ela deve estar pensando agora?
+
+
+</PRE>
+
+<PRE @box00>[text00060]
+Como resposta...
+
+</PRE>
+
+<PRE @box00>[text00070]
+Moeka saca uma arma de seu cinto e a aponta para nós.
+
+Eu percebo que Moeka não está segurando seu celular. Esta é a primeira vez que a vejo sem ele.
+
+
+Não que isso importe agora.
+
+A mão de Moeka que está segurando a arma está tremendo.
+
+Esta situação está afetando ela também?
+
+Deve estar. Ela sempre fica apavorada ao falar com pessoas.
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0164" mode="on">
+"Nossa missão..."
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0165" mode="on">
+"É silenciar vocês."
+
+Nos silenciar?
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0166" mode="on">
+"Sua recusa em nos acompanhar não vai mudar nada."
+
+Isso significa que ela planeja nos matar?
+
+Por quê? O que nós fizemos?
+
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2731" mode="on">
+"Quem enviou você? Quem são vocês?!"
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0167" mode="on">
+"Nós..."
+
+Moeka de repente levanta sua cabeça.
+
+Talvez pela terceira vez desde que eu a conheço, ela olha diretamente para mim. Seus olhos são negros e vazios.
+
+
+
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0168" mode="on">
+"...somos da SERN."
+
+</PRE>
+
+<PRE @box00>[text00080]
+SERN!?
+
+</PRE>
+
+<PRE @box00>[text00090]
+<voice name="Attacker　A" class="VID_ETC" src="voice/RNA_0001" mode="on">
+"M4!"
+
+The dark-skinned man speaks up. Is he addressing Moeka?
+
+<voice name="Attacker　A" class="VID_ETC" src="voice/RNA_0002" mode="on">
+"Watch your tongue!"
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0169" mode="on">
+"..."
+
+Moeka hangs her head again.
+
+In my head, I replay the words she just spoke.
+
+</PRE>
+
+<PRE @box00>[text00100]
+<center>SERN.</center>
+
+<center>They're from SERN?</center>
+
+<center>Why SERN?</center>
+
+<center>Of course. Who else could it be?</center>
+
+</PRE>
+
+<PRE @box00>[text00110]
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0170" mode="on">
+"Come with us. Now."
+
+Moeka raises her voice in frustration.
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0171" mode="on">
+"If you continue to resist, I'll have to resort to extreme measures."
+
+Moeka slowly raises her gun.
+
+She points the muzzle at...
+
+</PRE>
+
+<PRE @box00>[text00120]
+<voice name="Mayuri" class="VID_MAY" src="voice/MAY_0787" mode="on">
+"..."
+
+Mayuri.
+
+My whole body instantly goes cold.
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0172" mode="on">
+"Shiina Mayuri is not needed."
+
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2732" mode="on">
+"Stop!"
+
+</PRE>
+
+<PRE @box00>[text00130]
+I lunge at Moeka, but the dark-skinned man is faster.
+
+
+</PRE>
+
+<PRE @box00>[text00140]
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2733" mode="on">
+"Gah!"
+
+Something strikes my chin with crushing force.
+
+The shock numbs my entire body. Stars explode behind my eyes.
+
+
+
+I fall to my knees, powerless to stand.
+
+
+Everything goes dark.
+
+
+What happened?
+
+Did he hit me with the butt of his rifle?
+
+<voice name="Mayuri" class="VID_MAY" src="voice/MAY_0788" mode="on">
+"Okarin!"
+
+I look up.
+
+</PRE>
+
+<PRE @box00>[text00150]
+Mayuri, face streaked with tears, is reaching out to me as if begging for help.
+
+</PRE>
+
+<PRE @box00>[text00160]
+Over her shoulder, I see Moeka ready her gun.
+
+</PRE>
+
+<PRE @box00>[text00170]
+<voice name="Kurisu" class="VID_CRS" src="voice/CRS_1667" mode="on">
+"Mayuri! No!"
+
+
+I try to yell "Stop!" but my voice catches in my throat.
+
+
+Nothing comes out but a pitiful wheeze.
+
+Someone.
+
+Anyone.
+
+Please.
+
+Stop her.
+
+</PRE>
+
+<PRE @box00>[text00180]
+Stop Moeka!
+
+</PRE>
+
+<PRE @box00>[text00190]
+Moeka's lips move.
+
+She's mumbling something.
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0173" mode="on">
+"For SERN... for FB... for SERN... for FB..."
+
+</PRE>
+
+<PRE @box00>[text00200]
+Her mouth opens and closes robotically.
+
+My blood curdles. 
+
+No!
+
+</PRE>
+
+<PRE @box00>[text00210]
+A sharp, dry crack splits the air.
+
+
+
+</PRE>
+
+<PRE @box00>[text00220]
+Time slows to a crawl.
+
+</PRE>
+
+<PRE @box00>[text00230]
+Moeka pulled the trigger.
+
+</PRE>
+
+<PRE @box00>[text00240]
+Blood spurts from Mayuri's forehead.
+
+It splashes across my face, wet and warm.
+
+Her delicate, frail body falls towards me.
+
+</PRE>
+
+<PRE @box00>[text00250]
+I catch her.
+
+Her body is limp, like a puppet with no strings.
+
+Her head and arms dangle lifelessly.
+
+The smell of gunpowder fills my nose.
+
+And then, the smell of blood.
+
+</PRE>
+
+<PRE @box00>[text00260]
+<voice name="Itaru" class="VID_DAR" src="voice/DAR_0866" mode="on">
+"Wahhhhhhhhhhh!"
+
+</PRE>
+
+<PRE @box00>[text00270]
+Daru clutches his head and falls to his knees, screaming at the top of his lungs.
+
+The sound jerks me back to my senses.
+
+In my arms, Mayuri takes one short, shallow breath.
+
+And then...
+
+
+<voice name="Mayuri" class="VID_MAY" src="voice/MAY_0789" mode="on">
+"O...kari..."
+
+<voice name="Mayuri" class="VID_MAY" src="voice/MAY_0790" mode="on">
+"..."
+
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2734" mode="on">
+"...Mayuri?"
+
+</PRE>
+
+<PRE @box00>[text00280]
+<voice name="Kurisu" class="VID_CRS" src="voice/CRS_1668" mode="on">
+"No... no!"
+
+</PRE>
+
+<PRE @box00>[text00290]
+She's dead.
+
+Mayuri's dead.
+
+Her face is covered in blood.
+
+Her blood stains my hands.
+
+It's warm.
+
+
+</PRE>
+
+<PRE @box00>[text00300]
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0174" mode="on">
+"You three come with us. Now."
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0175" mode="on">
+"No more warnings."
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0176" mode="on">
+"Resist, and we'll kill you too."
+
+
+I hear a voice.
+
+But I can't comprehend what it's saying.
+
+What is this?
+
+What's going on here?
+
+Is this a joke?
+
+
+</PRE>
+
+<PRE @box00>[text00310]
+<center>"We may have created a monster here..."</center>
+
+</PRE>
+
+<PRE @box00>[text00320]
+This is a dream, right?
+
+...Right?
+
+
+I feel nothing.
+
+My mind is blank.
+
+I shake Mayuri's shoulder.
+
+Mayuri?
+
+Wake up, Mayuri.
+
+You'll catch cold if you sleep here.
+
+If you're tired, you can stay overnight.
+
+Or I can take you home, if you prefer.
+
+
+We'll ride the train back to Ikebukuro together, like we used to before Daru joined, when it was just the two of us.
+
+Memories of her smile whirl through my head, a thousand different smiles from a thousand different occasions.
+
+If I look away, she'll disappear.
+
+She always disappears.
+
+</PRE>
+
+<PRE @box00>[text00330]
+<voice name="" class="VID_MAY" src="voice/MAY_0791" mode="on">
+<center>"But now you're fine."</center>
+
+<voice name="" class="VID_MAY" src="voice/MAY_0792" mode="on">
+<center>"You don't need me to be your hostage anymore."</center>
+
+</PRE>
+
+<PRE @box00>[text00340]
+No, Mayuri. I still need you.
+
+Laugh for me - "ehehe" - like you always do.
+
+Greet me with your silly "tutturu♪".
+
+Tell me it's a lie. Tell me you're alright.
+
+...<K>...<K>Mayuri?
+
+</PRE>
+
+<PRE @box00>[text00350]
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2735" mode="on">
+"Ah... AAAHHHHHHHHHHHHHHHHHHH!"
+
+Red flames consume my mind, an inferno of rage and hate and rage and hate and the burning desire to kill everything I see.
+
+
+</PRE>
+
+<PRE @box00>[text00360]
+I gently lay the motionless Mayuri on the floor.
+
+I stand up.
+
+And then I fling myself at Moeka.
+
+</PRE>
+
+<PRE @box00>[text00370]
+<voice name="Kurisu" class="VID_CRS" src="voice/CRS_1669" mode="on">
+"Okabe!"
+
+But before I can take a step, someone grabs my hand from behind.
+
+<voice name="Kurisu" class="VID_CRS" src="voice/CRS_1670" mode="on">
+"You can't!"
+
+</PRE>
+
+<PRE @box00>[text00380]
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2736" mode="on">
+"Let me go! Let me go!"
+
+</PRE>
+
+<PRE @box00>[text00390]
+<voice name="Kurisu" class="VID_CRS" src="voice/CRS_1671" mode="on">
+"You can't! They'll kill you!"
+
+Moeka's gun is aimed at my head.
+
+Her finger is already on the trigger.
+
+</PRE>
+
+<PRE @box00>[text00400]
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2737" mode="on">
+"You gonna kill me too!?"
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0177" mode="on">
+"If you resist."
+
+</PRE>
+
+<PRE @box00>[text00410]
+<voice name="Kurisu" class="VID_CRS" src="voice/CRS_1672" mode="on">
+"Please, Okabe, do what she says. Okay?"
+
+<voice name="Kurisu" class="VID_CRS" src="voice/CRS_1673" mode="on">
+"Otherwise, they'll kill you too."
+
+I tear my hand from Kurisu's grip.
+
+</PRE>
+
+<PRE @box00>[text00420]
+My vision is a tunnel with Moeka on the other side.
+
+She won't get away with this.
+
+</PRE>
+
+<PRE @box00>[text00430]
+She killed Mayuri in cold blood.
+
+</PRE>
+
+<PRE @box00>[text00440a]
+<FONT size="54" Outcolor="#CC0000">I'll do the same to her!</FONT>
+
+</PRE>
+
+<PRE @box00>[text00440b]
+<voice name="Kurisu" class="VID_CRS" src="voice/CRS_1674" mode="on">
+"No!"
+
+
+Moeka pulls the trigger.
+
+</PRE>
+
+<PRE @box00>[text00450]
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0178" mode="on">
+"...!?"
+
+</PRE>
+
+<PRE @box00>[text00460]
+The sound of the shot smites upon my eardrums.
+
+I feel a sharp pain on the side of my head.
+
+I nearly lose my balance again.
+
+But I'm still alive.
+
+What happened?
+
+</PRE>
+
+<PRE @box00>[text00470]
+I realize that Moeka's gun is lying at her feet. Beside it is a small stone.
+
+Someone must have thrown it and knocked her gun aside.
+
+<voice name="???" class="VID_SUZ" src="voice/SUZ_0337" mode="on">
+"Get down!"
+
+</PRE>
+
+<PRE @box00>[text00480]
+<voice name="Attacker　B" class="VID_ETC" src="voice/RNB_0000" mode="on">
+"Gweh!!"
+
+</PRE>
+
+<PRE @box00>[text00490]
+Suddenly, Suzuha is there in the doorway, knocking one man down in the blink of an eye.
+
+Before anyone can react, she darts into another man's range and delivers a piercing elbow strike to his solar plexus.
+
+</PRE>
+
+<PRE @box00>[text00500]
+The man drops to his knees, gasping for air.
+
+The remaining men turn their guns on her, but she throws the incapacitated man towards them to block their aim.
+
+</PRE>
+
+<PRE @box00>[text00510]
+She then slides into the feet of the man at the rear, tripping him forward, and in a single smooth, flowing motion, drives her knee into the man's face as he falls.
+
+</PRE>
+
+<PRE @box00>[text00520]
+<voice name="Attacker　A" class="VID_ETC" src="voice/RNA_0003" mode="on">
+"Who the hell!?"
+
+The dark-skinned man aims his rifle.
+
+But before he can fire, Suzuha snatches a stunned attacker's gun and shoots him.
+
+</PRE>
+
+<PRE @box00>[text00530]
+<voice name="Attacker　A" class="VID_ETC" src="voice/RNA_0004" mode="on">
+"Gwah!!"
+
+Blood spurts from the man's hand.
+
+</PRE>
+
+<PRE @box00>[text00540]
+Without pausing, Suzuha leaps into the air and delivers a soaring roundhouse kick to his jaw.
+
+</PRE>
+
+<PRE @box00>[text00550]
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0179" mode="on">
+"Enough."
+
+</PRE>
+
+<PRE @box00>[text00560]
+<voice name="Suzuha" class="VID_SUZ" src="voice/SUZ_0338" mode="on">
+"!!"
+
+The next thing I know, the five men are down, and Moeka's gun is aimed at Suzuha's face.
+
+But Suzuha doesn't back down. Her gun is trained on Moeka's neck.
+
+It's a standoff. Neither moves.
+
+Silence returns to the room.
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0180" mode="on">
+"Who are you?"
+
+<voice name="Suzuha" class="VID_SUZ" src="voice/SUZ_0339" mode="on">
+"42."
+
+Suzuha's reply makes no sense.
+
+She glances at me.
+
+<voice name="Suzuha" class="VID_SUZ" src="voice/SUZ_0340" mode="on">
+"TV."
+
+What is she saying?
+
+<voice name="Suzuha" class="VID_SUZ" src="voice/SUZ_0341" mode="on">
+"Turned on."
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0181" mode="on">
+"What..."
+
+Suddenly, Kurisu springs up and makes a break for the development room.
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0182" mode="on">
+"Don't move!"
+
+</PRE>
+
+<PRE @box00>[text00570]
+<voice name="Suzuha" class="VID_SUZ" src="voice/SUZ_0342" mode="on">
+"That's my line!"
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0183" mode="on">
+"...Tch."
+
+
+I suddenly realize the meaning of Suzuha's words.
+
+The 42-inch TV downstairs. It's on.
+
+
+
+She wants me to use the Time Leap Machine!?
+
+</PRE>
+
+<PRE @box00>[text00580]
+I look at Mayuri's body.
+
+She's lying there quietly.
+
+Her eyes are closed.
+
+They'll never open again.
+
+One of the men Suzuha knocked out starts to moan.
+
+If they wake up, it's all over.
+
+</PRE>
+
+<PRE @box00>[text00590]
+Suzuha looks at me again.
+
+Her eyes implore me to make my move.
+
+If I use the machine, I can avert Mayuri's death.
+
+But at the same time, it could fry my brain.
+
+Fry my brain? So what?
+
+What is there to fear?
+
+</PRE>
+
+<PRE @box00>[text00600]
+Mayuri is dead, shot in cold blood.
+
+
+This isn't right. I won't accept it!
+
+Then change it.
+
+Change the past.
+
+You have the power. Use it!
+
+
+</PRE>
+
+<PRE @box00>[text00610]
+I stagger into the development room.
+
+Kurisu is about to put on the headgear.
+
+I pull it away from her.
+
+</PRE>
+
+<PRE @box00>[text00620]
+<voice name="Kurisu" class="VID_CRS" src="voice/CRS_1675" mode="on">
+"Okabe..."
+
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2738" mode="on">
+"I'm going back!"
+
+<voice name="Kurisu" class="VID_CRS" src="voice/CRS_1676" mode="on">
+"No! I should be the one to--"
+
+I grab Kurisu's wrist as she tries to take it back.
+
+I stare into her eyes, eyes wet with tears.
+
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2739" mode="on">
+"I will save Mayuri!"
+
+<voice name="Kurisu" class="VID_CRS" src="voice/CRS_1677" mode="on">
+"But what if it fails!?"
+
+</PRE>
+
+<PRE @box00>[text00630]
+I ignore her and put on the headgear.
+
+Moeka's last shot grazed the side of my head.
+
+My ears are still ringing, and there's blood on my neck.
+
+It doesn't matter.
+
+I might fail. I might even die.
+
+But I have to try.
+
+It's my only chance to save Mayuri.
+
+Kurisu bites her lip and activates the X68000.
+
+<voice name="Suzuha" class="VID_SUZ" src="voice/SUZ_0343" mode="on">
+"Okabe Rintaro! One of them's moving!"
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0184" mode="on">
+"Get in there! Kill them!"
+
+<voice name="Attacker　A" class="VID_ETC" src="voice/RNA_0005" mode="on">
+"Damn... kids!"
+
+The crew-cut man staggers into the development room.
+
+</PRE>
+
+<PRE @box00>[text00640]
+Acting purely on instinct, I grab Future Gadget No. 4: Moad Snake from the shelf and flick the switch.
+
+
+</PRE>
+
+<PRE @box00>[text00650]
+White smoke instantly fills the room, rendering it impossible to see.
+
+
+
+<voice name="Moeka" class="VID_MOE" src="voice/MOE_0185" mode="on">
+"Kill them!"
+
+</PRE>
+
+<PRE @box00>[text00660]
+<voice name="Kurisu" class="VID_CRS" src="voice/CRS_1678" mode="on">
+"Augh!"
+
+</PRE>
+
+<PRE @box00>[text00670]
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2740" mode="on">
+"Kurisu!?"
+
+</PRE>
+
+<PRE @box00>[text00680]
+<voice name="Kurisu" class="VID_CRS" src="voice/CRS_1679" mode="on">
+"Ugh, gh, Okabe!! Are you sure!?"
+
+</PRE>
+
+<PRE @box00>[text00690]
+<voice name="Kurisu" class="VID_CRS" src="voice/CRS_1680" mode="on">
+"Are you sure about this!? Really!?"
+
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2741" mode="on">
+"Do it, Kurisu! Activate the machine!"
+
+</PRE>
+
+<PRE @box00>[text00700]
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2742" mode="on">
+"Agh!"
+
+Pain flares in my right arm.
+
+Was I shot?
+
+It doesn't matter.
+
+</PRE>
+
+<PRE @box00>[text00710]
+I see blue-white light shining through the smoke.
+
+The discharge is starting!
+
+The light rapidly grows brighter.
+
+The floor begins to shake.
+
+The singularity is open!
+
+</PRE>
+
+<PRE @box00>[text00720]
+I crouch down, holding the headset steady with one hand.
+
+</PRE>
+
+<PRE @box00>[text00730]
+Wait for me, Mayuri!
+
+I won't die here!
+
+I'll cross through time to save you!
+
+
+
+</PRE>
+
+<PRE @box00>[text00740]
+Leap, my memories.
+
+
+Leap to the past!
+
+</PRE>
+
+<PRE @box00>[text00750]
+<voice name="Rintaro" class="VID_OKA" src="voice/OKA_2743" mode="on">
+"Leaaaaaaaap!!"
+
+
+The world explodes into light.
+
+</PRE>
+
