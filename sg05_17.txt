@@ -28,7 +28,7 @@ AK-47s em Akiba? Isso é algum tipo de piada?
 
 Mas uma coisa está clara. Estes caras não são turistas.
 
-<voice name="Attacker　A" class="VID_ETC" src="voice/RNA_0000" mode="on">
+<voice name="Agressor　A" class="VID_ETC" src="voice/RNA_0000" mode="on">
 "Mãos ao alto. Não se mexam."
 
 O homem negro de corte militar ordena.
@@ -331,46 +331,46 @@ SERN!?
 </PRE>
 
 <PRE @box00>[text00090]
-<voice name="Attacker　A" class="VID_ETC" src="voice/RNA_0001" mode="on">
+<voice name="Agressor　A" class="VID_ETC" src="voice/RNA_0001" mode="on">
 "M4!"
 
-The dark-skinned man speaks up. Is he addressing Moeka?
+O homem de pele negra fala. Ele está se referindo à Moeka?
 
-<voice name="Attacker　A" class="VID_ETC" src="voice/RNA_0002" mode="on">
-"Watch your tongue!"
+<voice name="Agressor　A" class="VID_ETC" src="voice/RNA_0002" mode="on">
+"Cuidado com o que você fala!"
 
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0169" mode="on">
 "..."
 
-Moeka hangs her head again.
+Moeka balança sua cabeça novamente.
 
-In my head, I replay the words she just spoke.
+Na minha cabeça, eu ouço novamente as palavras que ela acabou de dizer.
 
 </PRE>
 
 <PRE @box00>[text00100]
 <center>SERN.</center>
 
-<center>They're from SERN?</center>
+<center>Elas são da SERN?</center>
 
-<center>Why SERN?</center>
+<center>Por que a SERN?</center>
 
-<center>Of course. Who else could it be?</center>
+<center>Claro. Quem poderia ser?</center>
 
 </PRE>
 
 <PRE @box00>[text00110]
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0170" mode="on">
-"Come with us. Now."
+"Venha conosco. Agora."
 
-Moeka raises her voice in frustration.
+Moeka aumenta seu tom de voz com sua frustração.
 
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0171" mode="on">
-"If you continue to resist, I'll have to resort to extreme measures."
+"Se você continuar a resistir, eu terei que recorrer à medidas drásticas."
 
-Moeka slowly raises her gun.
+Moeka lentamente abaixa sua arma.
 
-She points the muzzle at...
+Ela a aponta para...
 
 </PRE>
 
@@ -380,18 +380,18 @@ She points the muzzle at...
 
 Mayuri.
 
-My whole body instantly goes cold.
+Meu corpo inteiro congela instantaneamente.
 
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0172" mode="on">
-"Shiina Mayuri is not needed."
+"Shiina Mayuri não é necessária."
 
 <voice name="Rintaro" class="VID_OKA" src="voice/OKA_2732" mode="on">
-"Stop!"
+"Pare!"
 
 </PRE>
 
 <PRE @box00>[text00130]
-I lunge at Moeka, but the dark-skinned man is faster.
+Eu avanço até Moeka, mas o homem de pele negra é mais rápido.
 
 
 </PRE>
@@ -400,119 +400,119 @@ I lunge at Moeka, but the dark-skinned man is faster.
 <voice name="Rintaro" class="VID_OKA" src="voice/OKA_2733" mode="on">
 "Gah!"
 
-Something strikes my chin with crushing force.
+Alguma coisa acerta meu queixo com força esmagadora.
 
-The shock numbs my entire body. Stars explode behind my eyes.
-
-
-
-I fall to my knees, powerless to stand.
+O choque paralisa meu corpo inteiro. Estrelas explodem atrás de meus olhos.
 
 
-Everything goes dark.
+
+Eu caio de joelhos, impotente demais para conseguir ficar de pé.
 
 
-What happened?
+Tudo escurece.
 
-Did he hit me with the butt of his rifle?
+
+O que aconteceu?
+
+Ele me deu uma coronhada?
 
 <voice name="Mayuri" class="VID_MAY" src="voice/MAY_0788" mode="on">
 "Okarin!"
 
-I look up.
+Eu olho para cima.
 
 </PRE>
 
 <PRE @box00>[text00150]
-Mayuri, face streaked with tears, is reaching out to me as if begging for help.
+Mayuri, com seu rosto coberto por lágrimas, tenta me alcançar como se estivesse implorando por ajuda.
 
 </PRE>
 
 <PRE @box00>[text00160]
-Over her shoulder, I see Moeka ready her gun.
+Por seu ombro, eu vejo Moeka preparar sua arma.
 
 </PRE>
 
 <PRE @box00>[text00170]
 <voice name="Kurisu" class="VID_CRS" src="voice/CRS_1667" mode="on">
-"Mayuri! No!"
+"Mayuri! Não!"
 
 
-I try to yell "Stop!" but my voice catches in my throat.
+Eu tento gritar "Pare!", mas minha voz se prende em minha garganta.
 
 
-Nothing comes out but a pitiful wheeze.
+Nenhum som vem, além de um chiado patético.
 
-Someone.
+Alguém.
 
-Anyone.
+Qualquer pessoa.
 
-Please.
+Por favor.
 
-Stop her.
+Pare ela.
 
 </PRE>
 
 <PRE @box00>[text00180]
-Stop Moeka!
+Pare, Moeka!
 
 </PRE>
 
 <PRE @box00>[text00190]
-Moeka's lips move.
+Os lábios de Moeka se movem.
 
-She's mumbling something.
+Ela está murmurando alguma coisa.
 
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0173" mode="on">
-"For SERN... for FB... for SERN... for FB..."
+"Por SERN... por FB... por SERN... por FB..."
 
 </PRE>
 
 <PRE @box00>[text00200]
-Her mouth opens and closes robotically.
+Sua boca abre e fecha roboticamente.
 
-My blood curdles. 
+Meu sangue coagula.
 
-No!
+Não!
 
 </PRE>
 
 <PRE @box00>[text00210]
-A sharp, dry crack splits the air.
+Um estrondo seco altera o ar.
 
 
 
 </PRE>
 
 <PRE @box00>[text00220]
-Time slows to a crawl.
+O tempo desacelera.
 
 </PRE>
 
 <PRE @box00>[text00230]
-Moeka pulled the trigger.
+Moeka apertou o gatilho.
 
 </PRE>
 
 <PRE @box00>[text00240]
-Blood spurts from Mayuri's forehead.
+Sangue jorra da testa de Mayuri.
 
-It splashes across my face, wet and warm.
+Ele espirra em meu rosto, sangue molhado e morno.
 
-Her delicate, frail body falls towards me.
+Seu delicado e frágil corpo cai em minha direção.
 
 </PRE>
 
 <PRE @box00>[text00250]
-I catch her.
+Eu a pego.
 
 Her body is limp, like a puppet with no strings.
 
 Her head and arms dangle lifelessly.
 
-The smell of gunpowder fills my nose.
+O cheiro de pólvora preenche minhas narinas.
 
-And then, the smell of blood.
+E então, o cheiro de sangue.
 
 </PRE>
 
@@ -529,7 +529,7 @@ The sound jerks me back to my senses.
 
 In my arms, Mayuri takes one short, shallow breath.
 
-And then...
+E então...
 
 
 <voice name="Mayuri" class="VID_MAY" src="voice/MAY_0789" mode="on">
@@ -545,103 +545,103 @@ And then...
 
 <PRE @box00>[text00280]
 <voice name="Kurisu" class="VID_CRS" src="voice/CRS_1668" mode="on">
-"No... no!"
+"Não... não!"
 
 </PRE>
 
 <PRE @box00>[text00290]
-She's dead.
+Ela está morta.
 
-Mayuri's dead.
+Mayuri está morta.
 
-Her face is covered in blood.
+Seu rosto está coberto de sangue.
 
-Her blood stains my hands.
+Seu sangue mancha minhas mãos.
 
-It's warm.
+Ele é morno.
 
 
 </PRE>
 
 <PRE @box00>[text00300]
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0174" mode="on">
-"You three come with us. Now."
+"Vocês três virão conosco. Agora."
 
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0175" mode="on">
-"No more warnings."
+"Sem mais avisos."
 
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0176" mode="on">
-"Resist, and we'll kill you too."
+"Resista, e nós mataremos você também."
 
 
-I hear a voice.
+Eu ouço uma voz.
 
-But I can't comprehend what it's saying.
+Mas eu não consigo compreender o que ela está dizendo.
 
-What is this?
+O que é isso?
 
-What's going on here?
+O que está acontecendo aqui?
 
-Is this a joke?
+Isso é uma piada?
 
 
 </PRE>
 
 <PRE @box00>[text00310]
-<center>"We may have created a monster here..."</center>
+<center>"Nós podemos ter criado um monstro aqui..."</center>
 
 </PRE>
 
 <PRE @box00>[text00320]
-This is a dream, right?
+Isso é um sonho, certo?
 
-...Right?
+...Certo?
 
 
-I feel nothing.
+Eu não sinto nada.
 
-My mind is blank.
+Minha mente está vazia.
 
-I shake Mayuri's shoulder.
+Eu balanço o ombro de Mayuri.
 
 Mayuri?
 
-Wake up, Mayuri.
+Acorda, Mayuri.
 
-You'll catch cold if you sleep here.
+Você vai ficar gripada se dormir assim.
 
-If you're tired, you can stay overnight.
+Se você estiver cansada, pode passar a noite aqui..
 
-Or I can take you home, if you prefer.
+Ou eu posso te levar à sua casa, se você preferir.
 
 
-We'll ride the train back to Ikebukuro together, like we used to before Daru joined, when it was just the two of us.
+Nós pegaremos o trem de volta para Ikebukuro juntos, como fazíamos antes do Daru entrar no laboratório, quando ele tinha apenas nós dois.
 
 Memories of her smile whirl through my head, a thousand different smiles from a thousand different occasions.
 
-If I look away, she'll disappear.
+Se eu olhar para outro lado, ela vai desaparecer.
 
-She always disappears.
+Ela sempre desaparece.
 
 </PRE>
 
 <PRE @box00>[text00330]
 <voice name="" class="VID_MAY" src="voice/MAY_0791" mode="on">
-<center>"But now you're fine."</center>
+<center>"Mas agora você está bem."</center>
 
 <voice name="" class="VID_MAY" src="voice/MAY_0792" mode="on">
-<center>"You don't need me to be your hostage anymore."</center>
+<center>"Você não precisa mais que eu seja a sua refém."</center>
 
 </PRE>
 
 <PRE @box00>[text00340]
-No, Mayuri. I still need you.
+Não, Mayuri. Eu ainda preciso de você.
 
-Laugh for me - "ehehe" - like you always do.
+Ria para mim - "ehehe" - como você sempre faz.
 
-Greet me with your silly "tutturu♪".
+Me cumprimente com o seu bobo "tutturu♪".
 
-Tell me it's a lie. Tell me you're alright.
+Me diz que é mentira. Me diz que você está bem.
 
 ...<K>...<K>Mayuri?
 
@@ -651,15 +651,15 @@ Tell me it's a lie. Tell me you're alright.
 <voice name="Rintaro" class="VID_OKA" src="voice/OKA_2735" mode="on">
 "Ah... AAAHHHHHHHHHHHHHHHHHHH!"
 
-Red flames consume my mind, an inferno of rage and hate and rage and hate and the burning desire to kill everything I see.
+Chamas vermelhas consomem minha mente, um inferno de raiva e ódio e raiva e ódio e o desejo ardente de matar tudo que eu vejo.
 
 
 </PRE>
 
 <PRE @box00>[text00360]
-I gently lay the motionless Mayuri on the floor.
+Eu gentilmente encosto o corpo imóvel de Mayuri no chão.
 
-I stand up.
+Eu me levanto.
 
 And then I fling myself at Moeka.
 
@@ -669,72 +669,72 @@ And then I fling myself at Moeka.
 <voice name="Kurisu" class="VID_CRS" src="voice/CRS_1669" mode="on">
 "Okabe!"
 
-But before I can take a step, someone grabs my hand from behind.
+Mas antes que eu possa dar um passo, alguém segura minha mão por trás.
 
 <voice name="Kurisu" class="VID_CRS" src="voice/CRS_1670" mode="on">
-"You can't!"
+"Você não pode fazer isso!"
 
 </PRE>
 
 <PRE @box00>[text00380]
 <voice name="Rintaro" class="VID_OKA" src="voice/OKA_2736" mode="on">
-"Let me go! Let me go!"
+"Me solta! Me solta!"
 
 </PRE>
 
 <PRE @box00>[text00390]
 <voice name="Kurisu" class="VID_CRS" src="voice/CRS_1671" mode="on">
-"You can't! They'll kill you!"
+"Você não pode! Eles vão te matar!"
 
-Moeka's gun is aimed at my head.
+A arma de Moeka está apontada para minha cabeça.
 
-Her finger is already on the trigger.
+O dedo dela já está no gatilho.
 
 </PRE>
 
 <PRE @box00>[text00400]
 <voice name="Rintaro" class="VID_OKA" src="voice/OKA_2737" mode="on">
-"You gonna kill me too!?"
+"Você vai me matar também!?"
 
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0177" mode="on">
-"If you resist."
+"Se você resistir."
 
 </PRE>
 
 <PRE @box00>[text00410]
 <voice name="Kurisu" class="VID_CRS" src="voice/CRS_1672" mode="on">
-"Please, Okabe, do what she says. Okay?"
+"Por favor, Okabe, aja como ela está pedindo. Ok?"
 
 <voice name="Kurisu" class="VID_CRS" src="voice/CRS_1673" mode="on">
-"Otherwise, they'll kill you too."
+"Se você não obedecer, eles vão matar você também."
 
 I tear my hand from Kurisu's grip.
 
 </PRE>
 
 <PRE @box00>[text00420]
-My vision is a tunnel with Moeka on the other side.
+Minha visão é um túnel com Moeka no outro lado.
 
-She won't get away with this.
+Ela não vai sair impune dessa situação.
 
 </PRE>
 
 <PRE @box00>[text00430]
-She killed Mayuri in cold blood.
+Ela matou Mayuri a sangue frio.
 
 </PRE>
 
 <PRE @box00>[text00440a]
-<FONT size="54" Outcolor="#CC0000">I'll do the same to her!</FONT>
+<FONT size="54" Outcolor="#CC0000"Eu farei o mesmo com ela!</FONT>
 
 </PRE>
 
 <PRE @box00>[text00440b]
 <voice name="Kurisu" class="VID_CRS" src="voice/CRS_1674" mode="on">
-"No!"
+"Não!"
 
 
-Moeka pulls the trigger.
+Moeka aperta o gatilho.
 
 </PRE>
 
@@ -745,65 +745,65 @@ Moeka pulls the trigger.
 </PRE>
 
 <PRE @box00>[text00460]
-The sound of the shot smites upon my eardrums.
+O som do disparo estoura meus tímpanos.
 
-I feel a sharp pain on the side of my head.
+Eu sinto uma dor como uma pontada em um lado de minha cabeça.
 
-I nearly lose my balance again.
+Eu quase perco meu equilíbrio novamente.
 
-But I'm still alive.
+Mas eu ainda estou vivo.
 
-What happened?
+O que aconteceu?
 
 </PRE>
 
 <PRE @box00>[text00470]
-I realize that Moeka's gun is lying at her feet. Beside it is a small stone.
+Eu percebo que a arma de Moeka está caída seus pés. Tem uma pequena pedra ao lado.
 
-Someone must have thrown it and knocked her gun aside.
+Alguém deve tê-la jogado e derrubado a arma.
 
 <voice name="???" class="VID_SUZ" src="voice/SUZ_0337" mode="on">
-"Get down!"
+"Abaixem-se!"
 
 </PRE>
 
 <PRE @box00>[text00480]
-<voice name="Attacker　B" class="VID_ETC" src="voice/RNB_0000" mode="on">
+<voice name="Agressor　B" class="VID_ETC" src="voice/RNB_0000" mode="on">
 "Gweh!!"
 
 </PRE>
 
 <PRE @box00>[text00490]
-Suddenly, Suzuha is there in the doorway, knocking one man down in the blink of an eye.
+De repente, Suzuha surge na entrada da porta, nocauteando um homem em um piscar de olhos.
 
-Before anyone can react, she darts into another man's range and delivers a piercing elbow strike to his solar plexus.
+Antes que qualquer um consiga reagir, ela avança até outro homem e Before anyone can react, she darts into another man's range and delivers a piercing elbow strike to his solar plexus.
 
 </PRE>
 
 <PRE @box00>[text00500]
-The man drops to his knees, gasping for air.
+O homem cai de joelhos, ofegante.
 
-The remaining men turn their guns on her, but she throws the incapacitated man towards them to block their aim.
+Os homens que sobraram apontam suas armas para ela, mas Suzuha joga o homem incapacitado na direção deles para impedir suas miras.
 
 </PRE>
 
 <PRE @box00>[text00510]
-She then slides into the feet of the man at the rear, tripping him forward, and in a single smooth, flowing motion, drives her knee into the man's face as he falls.
+Ela then slides into the feet of the man at the rear, tripping him forward, and in a single smooth, flowing motion, drives her knee into the man's face as he falls.
 
 </PRE>
 
 <PRE @box00>[text00520]
-<voice name="Attacker　A" class="VID_ETC" src="voice/RNA_0003" mode="on">
+<voice name="Agressor　A" class="VID_ETC" src="voice/RNA_0003" mode="on">
 "Who the hell!?"
 
 The dark-skinned man aims his rifle.
 
-But before he can fire, Suzuha snatches a stunned attacker's gun and shoots him.
+But before he can fire, Suzuha snatches a stunned Agressor's gun and shoots him.
 
 </PRE>
 
 <PRE @box00>[text00530]
-<voice name="Attacker　A" class="VID_ETC" src="voice/RNA_0004" mode="on">
+<voice name="Agressor　A" class="VID_ETC" src="voice/RNA_0004" mode="on">
 "Gwah!!"
 
 Blood spurts from the man's hand.
@@ -817,7 +817,7 @@ Without pausing, Suzuha leaps into the air and delivers a soaring roundhouse kic
 
 <PRE @box00>[text00550]
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0179" mode="on">
-"Enough."
+"Já chega."
 
 </PRE>
 
@@ -825,111 +825,111 @@ Without pausing, Suzuha leaps into the air and delivers a soaring roundhouse kic
 <voice name="Suzuha" class="VID_SUZ" src="voice/SUZ_0338" mode="on">
 "!!"
 
-The next thing I know, the five men are down, and Moeka's gun is aimed at Suzuha's face.
+Quando eu me dou conta, os cinco homens estão caídos, e a arma de Moeka está apontada para o rosto de Suzuha.
 
 But Suzuha doesn't back down. Her gun is trained on Moeka's neck.
 
 It's a standoff. Neither moves.
 
-Silence returns to the room.
+O silêncio retorna para a sala.
 
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0180" mode="on">
-"Who are you?"
+"Quem é você?"
 
 <voice name="Suzuha" class="VID_SUZ" src="voice/SUZ_0339" mode="on">
 "42."
 
-Suzuha's reply makes no sense.
+A resposta de Suzuha não faz sentido.
 
-She glances at me.
+Ela olha para mim.
 
 <voice name="Suzuha" class="VID_SUZ" src="voice/SUZ_0340" mode="on">
 "TV."
 
-What is she saying?
+O que ela está dizendo?
 
 <voice name="Suzuha" class="VID_SUZ" src="voice/SUZ_0341" mode="on">
-"Turned on."
+"Ligada."
 
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0181" mode="on">
-"What..."
+"O quê..."
 
-Suddenly, Kurisu springs up and makes a break for the development room.
+De repente, Kurisu Suddenly, Kurisu springs up and makes a break for the development room.
 
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0182" mode="on">
-"Don't move!"
+"Não se mova!"
 
 </PRE>
 
 <PRE @box00>[text00570]
 <voice name="Suzuha" class="VID_SUZ" src="voice/SUZ_0342" mode="on">
-"That's my line!"
+"Essa é a minha fala!"
 
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0183" mode="on">
 "...Tch."
 
 
-I suddenly realize the meaning of Suzuha's words.
+De repente eu percebo o significado das palavras de Suzuha.
 
-The 42-inch TV downstairs. It's on.
+A TV de 42 polegadas no andar de baixo. Ela está ligada.
 
 
 
-She wants me to use the Time Leap Machine!?
+Ela quer que eu use a Máquina do Salto no Tempo!?
 
 </PRE>
 
 <PRE @box00>[text00580]
-I look at Mayuri's body.
+Eu olho para o corpo de Mayuri.
 
-She's lying there quietly.
+Ela está deitada em silêncio.
 
-Her eyes are closed.
+Seus olhos estão fechados.
 
-They'll never open again.
+Eles nunca mais vão abrir novamente.
 
-One of the men Suzuha knocked out starts to moan.
+Um dos homens que Suzuha nocauteou começa a gemer.
 
-If they wake up, it's all over.
+Se eles acordarem, está tudo acabado.
 
 </PRE>
 
 <PRE @box00>[text00590]
-Suzuha looks at me again.
+Suzuha olha para mim novamente.
 
-Her eyes implore me to make my move.
+Os olhos dela imploram para eu agir.
 
-If I use the machine, I can avert Mayuri's death.
+Se eu usar a máquina, eu consigo evitar a morte de Mayuri.
 
-But at the same time, it could fry my brain.
+Mas ao mesmo tempo, poderia fritar o meu cérebro.
 
-Fry my brain? So what?
+Fritar o meu cérebro? E daí?
 
-What is there to fear?
+O que há a temer?
 
 </PRE>
 
 <PRE @box00>[text00600]
-Mayuri is dead, shot in cold blood.
+Mayuri está morta. Um tiro a sangue frio.
 
 
-This isn't right. I won't accept it!
+Isso não está certo. Eu não vou aceitar!
 
-Then change it.
+Então mude isso.
 
-Change the past.
+Mude o passado.
 
-You have the power. Use it!
+Você tem o poder. Use-o!
 
 
 </PRE>
 
 <PRE @box00>[text00610]
-I stagger into the development room.
+Eu cambaleio até a sala de desenvolvimento.
 
-Kurisu is about to put on the headgear.
+Kurisu está quase botando os fones de ouvido.
 
-I pull it away from her.
+Eu o tiro das mãos de Kurisu.
 
 </PRE>
 
@@ -938,66 +938,66 @@ I pull it away from her.
 "Okabe..."
 
 <voice name="Rintaro" class="VID_OKA" src="voice/OKA_2738" mode="on">
-"I'm going back!"
+"Eu vou voltar!"
 
 <voice name="Kurisu" class="VID_CRS" src="voice/CRS_1676" mode="on">
-"No! I should be the one to--"
+"Não! Eu que tenho que ser a pessoa que vai--"
 
-I grab Kurisu's wrist as she tries to take it back.
+Eu seguro o pulso de Kurisu quando ela tenta pegá-lo de volta.
 
-I stare into her eyes, eyes wet with tears.
+Eu olho diretamente para seus olhos, olhos molhados com lágrimas.
 
 <voice name="Rintaro" class="VID_OKA" src="voice/OKA_2739" mode="on">
-"I will save Mayuri!"
+"Eu vou salvar a Mayuri!"
 
 <voice name="Kurisu" class="VID_CRS" src="voice/CRS_1677" mode="on">
-"But what if it fails!?"
+"Mas e se você falhar!?"
 
 </PRE>
 
 <PRE @box00>[text00630]
-I ignore her and put on the headgear.
+Eu a ignoro e boto os fones de ouvido.
 
-Moeka's last shot grazed the side of my head.
+O último tiro de Moeka passa ao lado de minha cabeça.
 
-My ears are still ringing, and there's blood on my neck.
+Eu ainda ouço o som do tiro em meus ouvidos, e há sangue em meu pescoço.
 
-It doesn't matter.
+Não importa.
 
-I might fail. I might even die.
+Eu posso falhar. Eu posso até mesmo morrer.
 
-But I have to try.
+Mas eu tenho que tentar.
 
-It's my only chance to save Mayuri.
+É a minha única chance de salvar a Mayuri.
 
-Kurisu bites her lip and activates the X68000.
+Kurisu morde seus lábios e ativa o X68000.
 
 <voice name="Suzuha" class="VID_SUZ" src="voice/SUZ_0343" mode="on">
-"Okabe Rintaro! One of them's moving!"
+"Okabe Rintaro! Um deles está se movendo!"
 
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0184" mode="on">
-"Get in there! Kill them!"
+"Vá até eles! Mate-os!"
 
-<voice name="Attacker　A" class="VID_ETC" src="voice/RNA_0005" mode="on">
-"Damn... kids!"
+<voice name="Agressor　A" class="VID_ETC" src="voice/RNA_0005" mode="on">
+"Droga... crianças!"
 
-The crew-cut man staggers into the development room.
+O homem de corte militar invade a sala de desenvolvimento.
 
 </PRE>
 
 <PRE @box00>[text00640]
-Acting purely on instinct, I grab Future Gadget No. 4: Moad Snake from the shelf and flick the switch.
+Agindo puramente por instinto, eu pego a Gadget do Futuro Número 4: Moad Snake da prateleira e a ativo.
 
 
 </PRE>
 
 <PRE @box00>[text00650]
-White smoke instantly fills the room, rendering it impossible to see.
+Fumaça branca preenche a sala instantaneamente, tornando impossível enxergar.
 
 
 
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0185" mode="on">
-"Kill them!"
+"Mate-os!"
 
 </PRE>
 
@@ -1015,16 +1015,16 @@ White smoke instantly fills the room, rendering it impossible to see.
 
 <PRE @box00>[text00680]
 <voice name="Kurisu" class="VID_CRS" src="voice/CRS_1679" mode="on">
-"Ugh, gh, Okabe!! Are you sure!?"
+"Ugh, gh, Okabe!! Você tem certeza!?"
 
 </PRE>
 
 <PRE @box00>[text00690]
 <voice name="Kurisu" class="VID_CRS" src="voice/CRS_1680" mode="on">
-"Are you sure about this!? Really!?"
+"Você tem certeza disso!? Mesmo!?"
 
 <voice name="Rintaro" class="VID_OKA" src="voice/OKA_2741" mode="on">
-"Do it, Kurisu! Activate the machine!"
+"Vamos, Kurisu! Ative a máquina!"
 
 </PRE>
 
@@ -1032,57 +1032,57 @@ White smoke instantly fills the room, rendering it impossible to see.
 <voice name="Rintaro" class="VID_OKA" src="voice/OKA_2742" mode="on">
 "Agh!"
 
-Pain flares in my right arm.
+Dor se espalha pelo meu braço direito.
 
-Was I shot?
+Eu tomei um tiro?
 
-It doesn't matter.
+Não importa.
 
 </PRE>
 
 <PRE @box00>[text00710]
-I see blue-white light shining through the smoke.
+Eu vejo uma luz azul esbranqueada brilhando através da fumaça.
 
 The discharge is starting!
 
-The light rapidly grows brighter.
+A luz rapidamente brilha mais forte.
 
-The floor begins to shake.
+O chão começa a tremer.
 
-The singularity is open!
+A singularidade está aberta!
 
 </PRE>
 
 <PRE @box00>[text00720]
-I crouch down, holding the headset steady with one hand.
+Eu me abaixo, segurando o headset com uma mão.
 
 </PRE>
 
 <PRE @box00>[text00730]
-Wait for me, Mayuri!
+Espere por mim, Mayuri!
 
-I won't die here!
+Eu não vou morrer aqui!
 
-I'll cross through time to save you!
+Eu vou atravessar o tempo para salvar você!
 
 
 
 </PRE>
 
 <PRE @box00>[text00740]
-Leap, my memories.
+Pulem, minhas memórias.
 
 
-Leap to the past!
+Pulem para o passado!
 
 </PRE>
 
 <PRE @box00>[text00750]
 <voice name="Rintaro" class="VID_OKA" src="voice/OKA_2743" mode="on">
-"Leaaaaaaaap!!"
+"Puuuuuuuulem!!"
 
 
-The world explodes into light.
+O mundo explode em luz.
 
 </PRE>
 
