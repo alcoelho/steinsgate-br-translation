@@ -15,7 +15,7 @@ Tudo está acontecendo tão rápido que ninguém teve tempo nem para gritar.
 
 
 
-Os homens são estrangeiros, formando um grupo de várias raças diferentes. Eles estão vestidos de forma casual usando camisas coloridas e shorts, ou calças jeans.
+Os homens são estrangeiros, formando um grupo de várias etnias diferentes. Eles estão vestidos de forma casual usando camisas coloridas e shorts, ou calças jeans.
 
 Mas seus braços são grossos por serem muito musculosos, e seus olhos são penetrantes e frios como o gelo.
 
@@ -47,7 +47,7 @@ Depois Kurisu levanta suas mãos.
 
 Eu também obedeço.
 
-A última é a Mayuri.
+A última é Mayuri.
 
 Silêncio.
 
@@ -70,7 +70,7 @@ Estamos em uma pegadinha?
 E então eu ouço um novo barulho vindo de fora da sala.
 
 
-O som de pisadas de salto alto.
+O som de passos de salto alto.
 
 Uma mulher está subindo as escadas.
 
@@ -351,7 +351,7 @@ Na minha cabeça, eu ouço novamente as palavras que ela acabou de dizer.
 <PRE @box00>[text00100]
 <center>SERN.</center>
 
-<center>Elas são da SERN?</center>
+<center>Eles são da SERN?</center>
 
 <center>Por que a SERN?</center>
 
@@ -391,7 +391,7 @@ Meu corpo inteiro congela instantaneamente.
 </PRE>
 
 <PRE @box00>[text00130]
-Eu avanço até Moeka, mas o homem de pele negra é mais rápido.
+Eu avanço até Moeka, mas o homem negro é mais rápido.
 
 
 </PRE>
@@ -506,9 +506,9 @@ Seu delicado e frágil corpo cai em minha direção.
 <PRE @box00>[text00250]
 Eu a pego.
 
-Her body is limp, like a puppet with no strings.
+Seu corpo está frouxo, como uma marionete sem fios.
 
-Her head and arms dangle lifelessly.
+Sua cabeça e braços estão pendurados sem vida.
 
 O cheiro de pólvora preenche minhas narinas.
 
@@ -523,11 +523,11 @@ E então, o cheiro de sangue.
 </PRE>
 
 <PRE @box00>[text00270]
-Daru clutches his head and falls to his knees, screaming at the top of his lungs.
+Daru aperta sua cabeça e cai de joelhos, gritando com toda a força de seus pulmões.
 
-The sound jerks me back to my senses.
+O som me traz de volta à realidade.
 
-In my arms, Mayuri takes one short, shallow breath.
+Em meus braços, Mayuri respira de forma curta e fraca.
 
 E então...
 
@@ -615,9 +615,9 @@ Se você estiver cansada, pode passar a noite aqui..
 Ou eu posso te levar à sua casa, se você preferir.
 
 
-Nós pegaremos o trem de volta para Ikebukuro juntos, como fazíamos antes do Daru entrar no laboratório, quando ele tinha apenas nós dois.
+Nós pegaremos o trem de volta para Ikebukuro juntos, como fazíamos antes do Daru entrar no laboratório, quando tinha apenas nós dois aqui.
 
-Memories of her smile whirl through my head, a thousand different smiles from a thousand different occasions.
+Memórias de seu sorriso rodam por minha cabeça. Mil sorrisos diferentes de mil diferentes ocasiões.
 
 Se eu olhar para outro lado, ela vai desaparecer.
 
@@ -651,7 +651,7 @@ Me diz que é mentira. Me diz que você está bem.
 <voice name="Rintaro" class="VID_OKA" src="voice/OKA_2735" mode="on">
 "Ah... AAAHHHHHHHHHHHHHHHHHHH!"
 
-Chamas vermelhas consomem minha mente, um inferno de raiva e ódio e raiva e ódio e o desejo ardente de matar tudo que eu vejo.
+Chamas vermelhas consomem minha mente. Um inferno de raiva e ódio e raiva e ódio e o desejo ardente de matar tudo que eu vejo.
 
 
 </PRE>
@@ -661,7 +661,7 @@ Eu gentilmente encosto o corpo imóvel de Mayuri no chão.
 
 Eu me levanto.
 
-And then I fling myself at Moeka.
+E então me dirijo à Moeka.
 
 </PRE>
 
@@ -708,7 +708,7 @@ O dedo dela já está no gatilho.
 <voice name="Kurisu" class="VID_CRS" src="voice/CRS_1673" mode="on">
 "Se você não obedecer, eles vão matar você também."
 
-I tear my hand from Kurisu's grip.
+Eu solto minha mão da mão de Kurisu.
 
 </PRE>
 
@@ -776,7 +776,7 @@ Alguém deve tê-la jogado e derrubado a arma.
 <PRE @box00>[text00490]
 De repente, Suzuha surge na entrada da porta, nocauteando um homem em um piscar de olhos.
 
-Antes que qualquer um consiga reagir, ela avança até outro homem e Before anyone can react, she darts into another man's range and delivers a piercing elbow strike to his solar plexus.
+Antes que qualquer um consiga reagir, ela avança até outro homem e o ataca usando seu cotovelo para acertar o plexo solar de seu alvo.
 
 </PRE>
 
@@ -788,17 +788,17 @@ Os homens que sobraram apontam suas armas para ela, mas Suzuha joga o homem inca
 </PRE>
 
 <PRE @box00>[text00510]
-Ela then slides into the feet of the man at the rear, tripping him forward, and in a single smooth, flowing motion, drives her knee into the man's face as he falls.
+Ela então desliza até os pés do homem mais atrás na sala fazendo-o cair para frente, e em apenas um único fluido e suave movimento, acerta o rosto dele com seu joelho enquanto ele cai.
 
 </PRE>
 
 <PRE @box00>[text00520]
 <voice name="Agressor　A" class="VID_ETC" src="voice/RNA_0003" mode="on">
-"Who the hell!?"
+"Quem diabos!?"
 
-The dark-skinned man aims his rifle.
+O homem negro mira seu fuzil.
 
-But before he can fire, Suzuha snatches a stunned Agressor's gun and shoots him.
+Mas antes que ele possa atirar, Suzuha toma a arma de um dos agressores caídos e atira nele.
 
 </PRE>
 
@@ -806,12 +806,12 @@ But before he can fire, Suzuha snatches a stunned Agressor's gun and shoots him.
 <voice name="Agressor　A" class="VID_ETC" src="voice/RNA_0004" mode="on">
 "Gwah!!"
 
-Blood spurts from the man's hand.
+Sangue jorra da mão dele.
 
 </PRE>
 
 <PRE @box00>[text00540]
-Without pausing, Suzuha leaps into the air and delivers a soaring roundhouse kick to his jaw.
+Sem pausar, Suzuha salta no ar e acerta o queixo do agressor com uma voadora.
 
 </PRE>
 
@@ -827,9 +827,9 @@ Without pausing, Suzuha leaps into the air and delivers a soaring roundhouse kic
 
 Quando eu me dou conta, os cinco homens estão caídos, e a arma de Moeka está apontada para o rosto de Suzuha.
 
-But Suzuha doesn't back down. Her gun is trained on Moeka's neck.
+Mas Suzuha não cede. Sua arma está apontada para o pescoço de Moeka.
 
-It's a standoff. Neither moves.
+É um empate. Nenhuma das duas se move.
 
 O silêncio retorna para a sala.
 
@@ -854,7 +854,7 @@ O que ela está dizendo?
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0181" mode="on">
 "O quê..."
 
-De repente, Kurisu Suddenly, Kurisu springs up and makes a break for the development room.
+De repente, Kurisu aparece e corre para a sala de desenvolvimento.
 
 <voice name="Moeka" class="VID_MOE" src="voice/MOE_0182" mode="on">
 "Não se mova!"
@@ -943,7 +943,7 @@ Eu o tiro das mãos de Kurisu.
 <voice name="Kurisu" class="VID_CRS" src="voice/CRS_1676" mode="on">
 "Não! Eu que tenho que ser a pessoa que vai--"
 
-Eu seguro o pulso de Kurisu quando ela tenta pegá-lo de volta.
+Eu seguro o pulso de Kurisu quando ela tenta pegar o equipamento de volta.
 
 Eu olho diretamente para seus olhos, olhos molhados com lágrimas.
 
@@ -979,7 +979,7 @@ Kurisu morde seus lábios e ativa o X68000.
 "Vá até eles! Mate-os!"
 
 <voice name="Agressor　A" class="VID_ETC" src="voice/RNA_0005" mode="on">
-"Droga... crianças!"
+"Droga... moleques!"
 
 O homem de corte militar invade a sala de desenvolvimento.
 
@@ -1043,7 +1043,7 @@ Não importa.
 <PRE @box00>[text00710]
 Eu vejo uma luz azul esbranqueada brilhando através da fumaça.
 
-The discharge is starting!
+A energia está sendo descarregada!
 
 A luz rapidamente brilha mais forte.
 
@@ -1054,7 +1054,7 @@ A singularidade está aberta!
 </PRE>
 
 <PRE @box00>[text00720]
-Eu me abaixo, segurando o headset com uma mão.
+Eu me abaixo, segurando os fones com uma mão.
 
 </PRE>
 
